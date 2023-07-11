@@ -1,4 +1,4 @@
-import Container from "./lessons/8.Utiliser-des-images/Container"
+import Container from "./lessons/11.Short-circuit/Container"
 
 function App() {
 

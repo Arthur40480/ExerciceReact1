@@ -9,3 +9,11 @@ input,
 p {
   margin-bottom: 10px;
 }
+
+.valid {
+  color: blue;
+}
+
+.not-valid {
+  color: green;
+}
