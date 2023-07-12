@@ -19,6 +19,9 @@ export default function Container() {
       value={state}></input>
       <button>Envoyer</button>
 
+      <label htmlFor="email">Votre email:</label>
+      <input type="email" id="email" />
+
       <p>Votre pseudo : {state ? state : "Rentrez votre pseudo"}</p>
     </div>
   )
